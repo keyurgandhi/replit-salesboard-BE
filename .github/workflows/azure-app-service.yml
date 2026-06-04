@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - feature/sales-dahsboard
   workflow_dispatch:
 
 jobs:
